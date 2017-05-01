@@ -1,0 +1,20 @@
+div.ticTacToeSquare {
+    width: 100px;
+    height: 100px;
+    border: solid 1px;
+    float: left;
+    text-align: center;
+    font-size: 100px;
+}
+
+div.light {
+    background: yellow;
+}
+
+div.row {
+    clear: both;
+}
+
+dib.board {
+    position: relative;
+}
